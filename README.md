@@ -1,6 +1,6 @@
 # template_flutter_mvvm
 
-Template for flutter mvvm
+Template flutter mvvm
 
 ## Getting Started
 
